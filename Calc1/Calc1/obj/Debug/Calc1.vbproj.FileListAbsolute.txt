@@ -1,0 +1,20 @@
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.exe
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.pdb
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.xml
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.vbprojResolveAssemblyReference.cache
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.Resources.resources
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.vbproj.GenerateResource.Cache
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.exe
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.xml
+c:\users\valemax studio\documents\visual studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.pdb
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.xml
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.pdb
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\bin\Debug\Calc1.xml
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.vbprojResolveAssemblyReference.cache
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.Resources.resources
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.vbproj.GenerateResource.Cache
+C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.exe
