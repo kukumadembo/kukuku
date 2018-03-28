@@ -33,18 +33,12 @@
     End Sub
 
 
-    Private Sub btnMin_Click(sender As Object, e As EventArgs) Handles btnMin.Click
-        operater_on = True
-        operater = "-"
-        val1 = Val(lblDisplay.Text)
-    End Sub
+  
 
     Private Sub btnEqual_Click(sender As Object, e As EventArgs) Handles btnEqual.Click
         val2 = Val(lblDisplay.Text)
         If operater = "+" Then
             lblDisplay.Text = val1 + val2
-        ElseIf operater = "-"
-            lblDisplay.Text = val1 - val2
         Else
             lblDisplay.Text = lblDisplay.Text
         End If
@@ -55,5 +49,9 @@
         lblDisplay.Text = "0"
         operater_on = False
         operater = ""
+    End Sub
+
+    Private Sub lblDisplay_Click(sender As Object, e As EventArgs) Handles lblDisplay.Click
+
     End Sub
 End Class

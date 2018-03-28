@@ -18,3 +18,6 @@ C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.
 C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.Resources.resources
 C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.vbproj.GenerateResource.Cache
 C:\Users\kuku\Desktop\4.2\platform technology\calc1\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\Lettie\kukuku\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\Lettie\kukuku\Calc1\Calc1\obj\Debug\Calc1.xml
+C:\Users\Lettie\kukuku\Calc1\Calc1\obj\Debug\Calc1.pdb
